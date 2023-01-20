@@ -5,6 +5,6 @@ Contains a branch continuation package along with an expansion-based tool extrac
 - SSMTool 2.2: https://zenodo.org/record/6338831,
 - Sandia tensor toolbox: https://gitlab.com/tensors/tensor_toolbox.
 
-The general use of this package is demonstrated through a sequence of examples -- these can be found in the main folder, their names should be self-explanatory. The accompanying text can be found on [arXiv](https://arxiv.org).
+The general use of this package is demonstrated through a sequence of examples -- these can be found in the main folder, their names should be self-explanatory. The accompanying text can be found on [arXiv](https://arxiv.org/abs/2301.07898).
 
 With all inquiries, please contact gb643@cam.ac.uk.
